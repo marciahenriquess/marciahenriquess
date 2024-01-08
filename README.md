@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/103605697/196480655-b822e478-934b-48f2-b03c-1e178562b17e.png" width="300" height="500"/>  
 
-📚 Tenho 21 anos e sou estudante do 7° período de Engenharia de Computação na instituição IFF - Campos Centro.
+📚 Tenho 22 anos e sou estudante do 7° período de Engenharia de Computação na instituição IFF - Campos Centro.
 
 
 ## 📫 Como entrar em contato comigo: 
